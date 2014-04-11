@@ -1,0 +1,11 @@
+# Logfile created on 2014-04-06 12:05:05 +0900 by logger.rb/44203
+I, [2014-04-06T12:05:05.105527 #1969]  INFO -- : 0:  rack (1.5.2) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-06T12:05:06.910343 #1969]  INFO -- : 0:  rack-protection (1.5.0) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-protection-1.5.0.gemspec
+I, [2014-04-06T12:05:06.910891 #1969]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-06T12:05:08.083825 #1969]  INFO -- : 0:  sinatra (1.4.3) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-1.4.3.gemspec
+I, [2014-04-06T12:05:08.084443 #1969]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-04-11T09:51:40.915720 #1015]  INFO -- : 0:  rack (1.5.2) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-11T09:51:40.917696 #1015]  INFO -- : 0:  rack-protection (1.5.0) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-protection-1.5.0.gemspec
+I, [2014-04-11T09:51:40.918120 #1015]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-11T09:51:40.918424 #1015]  INFO -- : 0:  sinatra (1.4.3) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-1.4.3.gemspec
+I, [2014-04-11T09:51:40.918729 #1015]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
